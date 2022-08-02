@@ -15,13 +15,19 @@
 	<img src="https://raw.githubusercontent.com/sukinoverse/catppuccin-sublime-text/main/assets/sublime-text-example.png"/>
 </p>
 
-## Usage
-- Open a package folder with `Preferences->Browse Packages`
-- Clone a repo `git clone https://github.com/sukinoverse/catppuccin-sublime-text Catppuccin`
-- Set a color scheme with `Preferences -> Select Color Scheme` then select `catppuccin-mocha`
-- Set a theme by `Preferences -> Select Theme` and select `Adaptive`
+## ✨ Usage
+- **Open the package folder**
+	- `Command Palette` -> `Preference: Browse Packages`
+- **Clone this repo to the package folder**
+	- `git clone https://github.com/sukinoverse/catppuccin-sublime-text Catppuccin`
+- **Set a color scheme**
+	- `Command Palette` -> `UI: Select Color Scheme` 
+	- then select `Catppuccin Mocha`
+- **Set a theme**
+	- `Command Palette` -> `UI: Select Theme` 
+	- then select `Adaptive`
 
-## 🙋 FAQ (optional)
+## 🙋 FAQ
 
 **Q: "How is this different from existing https://github.com/catppuccin/sublime-text ?"**
 
