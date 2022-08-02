@@ -12,20 +12,20 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/sample.png"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/sublime-text-example.png"/>
 </p>
 
 ## Usage
-- Open a package folder by `Preferences->Browse Packages`
-- Clone repo `git clone https://github.com/sukinoverse/catppuccin-sublime-text Catppuccin`
-- Set color scheme by `Preferences -> Select Color Scheme` and select `catppuccin-mocha`
-- Set theme by `Preferences -> Select Theme` and select `Adaptive`
+- Open a package folder with `Preferences->Browse Packages`
+- Clone a repo `git clone https://github.com/sukinoverse/catppuccin-sublime-text Catppuccin`
+- Set a color scheme with `Preferences -> Select Color Scheme` then select `catppuccin-mocha`
+- Set a theme by `Preferences -> Select Theme` and select `Adaptive`
 
 ## 🙋 FAQ (optional)
 
-- Q: **"How is this different from existing https://github.com/catppuccin/sublime-text ?"**
+**Q: "How is this different from existing https://github.com/catppuccin/sublime-text ?"**
 
-A: This is my personal taste adopting a Catppuccin theme for Sublime Text 4 based on original Marina theme
+A: This is a personal adoption of a Catppuccin theme for Sublime Text 4 based on the original Mariana theme, which may not support every syntax highlight.
 
 ## 💝 Thanks to
 
