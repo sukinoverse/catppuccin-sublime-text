@@ -23,8 +23,9 @@
 
 ## 🙋 FAQ (optional)
 
--	Q: **_"How is this different from existing https://github.com/catppuccin/sublime-text ?"**
-	A: This is my personal taste adopting a Catppuccin theme for Sublime Text 4 based on original Marina theme
+- Q: **"How is this different from existing https://github.com/catppuccin/sublime-text ?"**
+
+A: This is my personal taste adopting a Catppuccin theme for Sublime Text 4 based on original Marina theme
 
 ## 💝 Thanks to
 
