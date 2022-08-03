@@ -16,14 +16,13 @@
 </p>
 
 ## ✨ Usage
-- **Open the package folder**
+- Open the package folder
 	- `Command Palette` -> `Preference: Browse Packages`
-- **Clone this repo to the package folder**
-	- `git clone https://github.com/sukinoverse/catppuccin-sublime-text Catppuccin`
-- **Set a color scheme**
+- Copy `Catppuccin` folder to package folder
+- Set a color scheme
 	- `Command Palette` -> `UI: Select Color Scheme` 
-	- then select `Catppuccin Mocha`
-- **Set a theme**
+	- then select `Mocha` `Macchiato` `Frappe` or `Latte`
+- Set a theme
 	- `Command Palette` -> `UI: Select Theme` 
 	- then select `Adaptive`
 
