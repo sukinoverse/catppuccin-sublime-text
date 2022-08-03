@@ -103,7 +103,7 @@
 		{
 			"name": "Operators",
 			"scope": "keyword.operator",
-			"foreground": "var(red)"
+			"foreground": "var(sky)"
 		},
 		{
 			"name": "Punctuation",
