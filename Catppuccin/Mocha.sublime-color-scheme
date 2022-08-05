@@ -1,5 +1,7 @@
 // Documentation at https://www.sublimetext.com/docs/color_schemes.html
 {
+	"name": "Catppuccin — Mocha",
+	"author": "SukinoVerse, powered by Catppuccin theme",
 	"variables": {
 		"rosewater": "#f5e0dc",
 		"flamingo": "#f2cdcd",

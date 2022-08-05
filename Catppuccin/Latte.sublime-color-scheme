@@ -1,5 +1,7 @@
 // Documentation at https://www.sublimetext.com/docs/color_schemes.html
 {
+	"name": "Catppuccin — Latte",
+	"author": "SukinoVerse, powered by Catppuccin theme",
 	"variables": {
 		"rosewater": "#dc8a78",
 		"flamingo": "#dd7878",

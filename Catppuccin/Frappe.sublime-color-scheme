@@ -1,5 +1,7 @@
 // Documentation at https://www.sublimetext.com/docs/color_schemes.html
 {
+	"name": "Catppuccin — Frappe",
+	"author": "SukinoVerse, powered by Catppuccin theme",
 	"variables": {
 		"rosewater": "#f2d5cf",
 		"flamingo": "#eebebe",

@@ -1,5 +1,7 @@
 // Documentation at https://www.sublimetext.com/docs/color_schemes.html
 {
+	"name": "Catppuccin — Macchiato",
+	"author": "SukinoVerse, powered by Catppuccin theme",
 	"variables": {
 		"rosewater": "#f4dbd6",
 		"flamingo": "#f0c6c6",
