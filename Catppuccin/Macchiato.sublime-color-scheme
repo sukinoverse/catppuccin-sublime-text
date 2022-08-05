@@ -33,14 +33,14 @@
 	"globals": {
 		"foreground": "var(text)",
 		"background": "var(base)",
-		"accent": "var(blue)",
-		"caret": "var(peach)",
-		"line_highlight": "var(surface1)",
+		"accent": "var(lavender)",
+		"caret": "var(rosewater)",
+		"line_highlight": "var(surface0)",
 		"selection": "var(surface2)",
 		"selection_foreground": "var(text)",
-		"selection_border": "var(blue)",
-		"inactive_selection": "var(surface2)",
-		"misspelling": "var(red)",
+		"selection_border": "var(lavender)",
+		"inactive_selection": "var(overlay0)",
+		"misspelling": "var(maroon)",
 		"shadow": "color(var(crust) alpha(0.5))",
 		"active_guide": "color(var(base) alpha(0.25))",
 		"stack_guide": "color(var(base) alpha(0.25))",
@@ -48,9 +48,9 @@
 		"find_highlight_foreground": "var(base)",
 		"find_highlight": "var(blue)",
 		"brackets_options": "underline",
-		"brackets_foreground": "var(peach)",
+		"brackets_foreground": "var(rosewater)",
 		"bracket_contents_options": "underline",
-		"bracket_contents_foreground": "var(peach)",
+		"bracket_contents_foreground": "var(rosewater)",
 		"tags_options": "stippled_underline",
 		"tags_foreground": "var(blue)"
 	},
@@ -73,24 +73,24 @@
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
-			"foreground": "var(peach)"
+			"foreground": "var(pink)"
 		},
 		{
 			"name": "Number Suffix",
 			"scope": "storage.type.numeric",
-			"foreground": "var(red)",
+			"foreground": "var(pink)",
 			"font_style": "italic"
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
-			"foreground": "var(mauve)",
+			"foreground": "var(yellow)",
 			"font_style": "italic"
 		},
 		{
 			"name": "User-defined constant",
 			"scope": "constant.character, constant.other",
-			"foreground": "var(blue)"
+			"foreground": "var(teal)"
 		},
 		{
 			"name": "Member Variable",
@@ -105,7 +105,7 @@
 		{
 			"name": "Operators",
 			"scope": "keyword.operator",
-			"foreground": "var(sky)"
+			"foreground": "var(mauve)"
 		},
 		{
 			"name": "Punctuation",
@@ -115,27 +115,27 @@
 		{
 			"name": "Punctuation",
 			"scope": "punctuation.section",
-			"foreground": "var(overlay1)"
+			"foreground": "var(overlay2)"
 		},
 		{
 			"name": "Accessor",
 			"scope": "punctuation.accessor",
-			"foreground": "var(peach)"
+			"foreground": "var(rosewater)"
 		},
 		{
 			"name": "Annotation Punctuation",
 			"scope": "punctuation.definition.annotation",
-			"foreground": "var(blue)"
+			"foreground": "var(rosewater)"
 		},
 		{
 			"name": "JavaScript Dollar",
 			"scope": "variable.other.dollar.only.js, variable.other.object.dollar.only.js, variable.type.dollar.only.js, support.class.dollar.only.js",
-			"foreground": "var(blue)"
+			"foreground": "var(teal)"
 		},
 		{
 			"name": "Storage",
 			"scope": "storage",
-			"foreground": "var(red)"
+			"foreground": "var(pink)"
 		},
 		{
 			"name": "Storage type",
@@ -162,7 +162,7 @@
 		{
 			"name": "Function argument",
 			"scope": "variable.parameter",
-			"foreground": "var(peach)"
+			"foreground": "var(rosewater)"
 		},
 		{
 			"name": "Language variable",
@@ -178,7 +178,7 @@
 		{
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
-			"foreground": "var(pink)"
+			"foreground": "var(peach)"
 		},
 		{
 			"name": "Function call",
@@ -194,13 +194,13 @@
 		{
 			"name": "Library constant",
 			"scope": "support.constant",
-			"foreground": "var(red)",
+			"foreground": "var(yellow)",
 			"font_style": "italic"
 		},
 		{
 			"name": "Library class/type",
 			"scope": "support.type, support.class",
-			"foreground": "var(blue)",
+			"foreground": "var(peach)",
 			"font_style": "italic"
 		},
 		{
@@ -223,7 +223,7 @@
 		{
 			"name": "YAML String",
 			"scope": "source.yaml string.unquoted",
-			"foreground": "var(text)"
+			"foreground": "var(green)"
 		},
 		{
 			"name": "markup headings",
@@ -233,12 +233,12 @@
 		{
 			"name": "markup headings",
 			"scope": "markup.heading punctuation.definition.heading",
-			"foreground": "var(red)"
+			"foreground": "var(peach)"
 		},
 		{
 			"name": "markup h1",
 			"scope": "markup.heading.1 punctuation.definition.heading",
-			"foreground": "var(red)"
+			"foreground": "var(peach)"
 		},
 		{
 			"name": "markup links",
@@ -308,7 +308,7 @@
 		{
 			"name": "markup punctuation",
 			"scope": "(text punctuation.definition.italic | text punctuation.definition.bold)",
-			"foreground": "var(blue)"
+			"foreground": "var(rosewater)"
 		},
 		{
 			"name": "diff.header",
